@@ -1,0 +1,45 @@
+Streamlit syntax check: PASS
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.
+
+Unit tests:
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.
+test_empty_question (test_agent.AssistantQuestionTests.test_empty_question) ... ok
+test_llm_processing_error_is_handled (test_agent.AssistantQuestionTests.test_llm_processing_error_is_handled) ... ok
+test_question_1_department_count (test_agent.AssistantQuestionTests.test_question_1_department_count) ... ok
+test_question_2_average_salary (test_agent.AssistantQuestionTests.test_question_2_average_salary) ... ok
+test_question_3_highest_paid (test_agent.AssistantQuestionTests.test_question_3_highest_paid) ... ok
+test_question_4_proposed_hr_increase (test_agent.AssistantQuestionTests.test_question_4_proposed_hr_increase) ... ok
+test_question_5_unknown_request (test_agent.AssistantQuestionTests.test_question_5_unknown_request) ... ok
+test_average_salary_excludes_missing_and_negative_values (test_agent.EmployeeToolsTests.test_average_salary_excludes_missing_and_negative_values) ... ok
+test_department_count_matches_csv (test_agent.EmployeeToolsTests.test_department_count_matches_csv) ... ok
+test_empty_salary_data_is_handled (test_agent.EmployeeToolsTests.test_empty_salary_data_is_handled) ... ok
+test_gemini_parser_uses_updated_default_model (test_agent.EmployeeToolsTests.test_gemini_parser_uses_updated_default_model) ... ok
+test_highest_paid_employee_matches_csv (test_agent.EmployeeToolsTests.test_highest_paid_employee_matches_csv) ... ok
+test_invalid_percentage_rejected (test_agent.EmployeeToolsTests.test_invalid_percentage_rejected) ... ok
+test_raise_proposal_skips_missing_and_negative_salaries (test_agent.EmployeeToolsTests.test_raise_proposal_skips_missing_and_negative_salaries) ... ok
+test_salary_increase_is_proposal_only (test_agent.EmployeeToolsTests.test_salary_increase_is_proposal_only) ... ok
+test_unknown_department_returns_zero (test_agent.EmployeeToolsTests.test_unknown_department_returns_zero) ... ok
+test_uploaded_dataset_is_loaded (test_agent.EmployeeToolsTests.test_uploaded_dataset_is_loaded) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.043s
+
+OK
