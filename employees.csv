@@ -1,0 +1,201 @@
+employee_id,name,department,salary,age,city,employment_type,job_level,years_experience
+1001,Mira Gupta,Product,89000.0,22.0,Gurugram,Full-time,Junior,6
+1002,Sai Sengupta,Product,169000.0,55.0,Nagpur,Full-time,Intern,5
+1003,Sara Patel,Sales,64000.0,53.0,Noida,Part-time,Manager,34
+1004,Aisha Gupta,Engineering,126000.0,49.0,Mumbai,Full-time,Manager,27
+1005,Saanvi More,Operations,70000.0,30.0,Hyderabad,Full-time,Senior,6
+1006,Anika Deshmukh,Operations,79000.0,59.0,Navi Mumbai,Contract,Intern,24
+1007,Aarohi Joseph,HR,70000.0,39.0,Kochi,Contract,Junior,4
+1008,Tara Chavan,IT,,35.0,Bengaluru,Full-time,Intern,24
+1009,Ananya Das,Marketing,98000.0,44.0,Kochi,Full-time,Manager,17
+1010,Sara Khan,Administration,73000.0,25.0,Gurugram,Full-time,Senior,24
+1011,Myra Pawar,Marketing,121000.0,56.0,Pune,Full-time,Intern,20
+1012,Saanvi Ghosh,Engineering,138000.0,25.0,Jaipur,Full-time,Manager,31
+1013,Anika Mehta,Engineering,187000.0,,Gurugram,Part-time,Lead,34
+1014,Aisha Mukherjee,Marketing,114000.0,48.0,Kochi,Full-time,Junior,32
+1015,Ayaan Shah,Data Science,103000.0,24.0,Delhi,Part-time,Senior,4
+1016,Varun Agarwal,Engineering,167000.0,59.0,Kolkata,Contract,Intern,7
+1017,Aryan Gupta,Product,188000.0,55.0,Jaipur,Full-time,Mid-level,27
+1018,Karan Verma,Finance,103000.0,21.0,Delhi,Contract,Intern,19
+1019,Diya Shah,Product,139000.0,59.0,Kochi,Full-time,Lead,33
+1020,Aditi Patel,IT,141000.0,41.0,Hyderabad,Full-time,Mid-level,15
+1021,Sai Iyer,IT,95000.0,57.0,Thane,Full-time,Lead,8
+1022,Farhan Khan,Finance,129000.0,51.0,Kolkata,Contract,Lead,27
+1023,Pooja Jadhav,Sales,104000.0,33.0,Indore,Part-time,Manager,23
+1024,Ayaan Singh,Data Science,212000.0,49.0,Gurugram,Full-time,Mid-level,1
+1025,Aisha Malhotra,Legal,,35.0,Mumbai,Full-time,Manager,3
+1026,Rohan Joshi,Sales,43000.0,23.0,Gurugram,Full-time,Manager,31
+1027,Karan Ghosh,Sales,104000.0,29.0,Thane,Full-time,Senior,26
+1028,Shreya Menon,Sales,47000.0,27.0,Kochi,Full-time,Senior,29
+1029,Vihaan Mukherjee,Administration,33000.0,27.0,Jaipur,Full-time,Junior,12
+1030,Krishna Menon,Sales,103000.0,49.0,Delhi,Full-time,Senior,15
+1031,Reyansh Kulkarni,HR,63000.0,56.0,Mumbai,Full-time,Junior,10
+1032,Saanvi Mukherjee,Engineering,194000.0,-4.0,Pune,Full-time,Senior,0
+1033,Riya Menon,Engineering,137000.0,50.0,Thane,Full-time,Junior,18
+1034,Mira Bhat,Sales,42000.0,58.0,Pune,Part-time,Mid-level,3
+1035,Manav Agarwal,IT,139000.0,51.0,Delhi,Full-time,Lead,5
+1036,Arjun Singh,Finance,53000.0,59.0,Indore,Full-time,Lead,15
+1037,Zain Iyer,Legal,136000.0,23.0,Nagpur,Part-time,Lead,33
+1038,Shreya Pawar,Operations,68000.0,34.0,Gurugram,Full-time,Senior,8
+1039,Varun Pawar,Product,157000.0,,Bengaluru,Full-time,Senior,6
+1040,Manav Verma,HR,69000.0,34.0,Chennai,Full-time,Intern,15
+1041,Sneha Bhat,Operations,71000.0,31.0,Ahmedabad,Contract,Manager,33
+1042,Meera Nair,IT,150000.0,56.0,Chennai,Full-time,Intern,6
+1043,Kiara Chavan,Administration,65000.0,30.0,Noida,Part-time,Mid-level,13
+1044,Manav Dutta,Product,156000.0,37.0,Kolkata,Full-time,Intern,27
+1045,Rohan Mehta,Marketing,45000.0,21.0,Kolkata,Full-time,Manager,28
+1046,Farhan Sharma,Customer Support,73000.0,48.0,Hyderabad,Full-time,Manager,9
+1047,Aisha Shetty,Customer Support,30000.0,44.0,Chennai,Full-time,Junior,2
+1048,Kavya Kapoor,Marketing,86000.0,23.0,Gurugram,Part-time,Intern,22
+1049,Mira Shah,Customer Support,54000.0,60.0,Gurugram,Full-time,Junior,26
+1050,Ishita Singh,IT,,42.0,Kolkata,Full-time,Manager,6
+1051,Myra Ansari,Engineering,79000.0,51.0,Navi Mumbai,Full-time,Mid-level,14
+1052,Priya More,Sales,38000.0,33.0,Kolkata,Full-time,Mid-level,22
+1053,Om Bhat,Product,140000.0,46.0,Jaipur,Full-time,Intern,16
+1054,Aditya Nair,Finance,119000.0,37.0,Nagpur,Full-time,Manager,20
+1055,Rahul Ghosh,Engineering,-5000.0,28.0,Noida,Full-time,Intern,27
+1056,Om Ansari,IT,131000.0,55.0,Kochi,Full-time,Intern,21
+1057,Karan Jadhav,Legal,100000.0,28.0,Ahmedabad,Part-time,Senior,20
+1058,Krishna Ansari,Engineering,145000.0,56.0,Nagpur,Part-time,Senior,11
+1059,Priya Shetty,Legal,132000.0,40.0,Mumbai,Full-time,Mid-level,13
+1060,Sneha Pillai,Engineering,152000.0,50.0,Noida,Contract,Senior,10
+1061,Manav Joseph,Product,85000.0,39.0,Jaipur,Full-time,Junior,19
+1062,Vivaan Deshmukh,Sales,60000.0,30.0,Gurugram,Full-time,Lead,4
+1063,Diya Banerjee,Data Science,186000.0,57.0,Thane,Full-time,Junior,9
+1064,Aryan Nair,Product,163000.0,21.0,Nagpur,Full-time,Junior,33
+1065,Ira Reddy,Data Science,92000.0,56.0,Navi Mumbai,Full-time,Senior,33
+1066,Aryan Pillai,Customer Support,66000.0,41.0,Nagpur,Contract,Senior,10
+1067,Sneha Verma,Administration,85000.0,51.0,Gurugram,Part-time,Mid-level,33
+1068,Sneha Joshi,Data Science,141000.0,38.0,Ahmedabad,Full-time,Mid-level,21
+1069,Krishna Shah,Operations,104000.0,26.0,Gurugram,Full-time,Manager,9
+1070,Ishita Rao,Administration,43000.0,25.0,Jaipur,Contract,Senior,26
+1071,Rahul Sengupta,IT,91000.0,47.0,Mumbai,Contract,Senior,30
+1072,Meera Banerjee,IT,185000.0,43.0,Nagpur,Contract,Manager,34
+1073,Aditi Malhotra,Legal,174000.0,35.0,Kolkata,Full-time,Senior,1
+1074,Karan Khan,Engineering,,46.0,Navi Mumbai,Full-time,Lead,34
+1075,Aisha Ghosh,IT,181000.0,46.0,Mumbai,Full-time,Manager,27
+1076,Vihaan Verma,Finance,104000.0,32.0,Indore,Full-time,Junior,29
+1077,Kiara Rao,Operations,78000.0,45.0,Kolkata,Full-time,Senior,1
+1078,Kavya Malhotra,Administration,64000.0,24.0,Bengaluru,Part-time,Intern,1
+1079,Zain Shah,Sales,60000.0,22.0,Gurugram,Full-time,Senior,7
+1080,Yash Verma,Legal,87000.0,50.0,Kochi,Full-time,Lead,7
+1081,Aisha Patel,Finance,84000.0,27.0,Ahmedabad,Contract,Manager,24
+1082,Aisha Singh,Engineering,120000.0,25.0,Hyderabad,Part-time,Mid-level,7
+1083,Kavya Bhat,Legal,160000.0,,Nagpur,Part-time,Mid-level,4
+1084,Aarav Rao,Customer Support,69000.0,42.0,Thane,Full-time,Senior,23
+1085,Pooja Shah,Product,189000.0,50.0,Nagpur,Full-time,Manager,33
+1086,Zoya D'Souza,Product,109000.0,60.0,Navi Mumbai,Full-time,Manager,17
+1087,Kiara Pillai,Operations,66000.0,26.0,Gurugram,Full-time,Lead,24
+1088,Kabir Shaikh,Operations,38000.0,52.0,Thane,Full-time,Mid-level,16
+1089,Yash Gupta,Operations,70000.0,59.0,Mumbai,Contract,Junior,5
+1090,Aditi Shetty,Sales,127000.0,47.0,Gurugram,Part-time,Senior,31
+1091,Riya Malhotra,Data Science,84000.0,26.0,Indore,Part-time,Junior,19
+1092,Tanvi Shetty,Product,149000.0,44.0,Kochi,Full-time,Manager,35
+1093,Kiara Jadhav,Operations,80000.0,50.0,Kolkata,Full-time,Intern,12
+1094,Aryan Shaikh,Operations,50000.0,55.0,Noida,Full-time,Manager,30
+1095,Sara Chavan,Marketing,115000.0,54.0,Hyderabad,Full-time,Mid-level,14
+1096,Aarav Bhat,Operations,57000.0,40.0,Chennai,Full-time,Intern,3
+1097,Aarohi Dutta,Customer Support,46000.0,145.0,Hyderabad,Full-time,Lead,18
+1098,Rohan Shaikh,Data Science,202000.0,49.0,Pune,Full-time,Senior,7
+1099,Arjun Ghosh,HR,60000.0,52.0,Pune,Full-time,Junior,19
+1100,Farhan Rao,HR,50000.0,28.0,Gurugram,Contract,Senior,28
+1101,Nikhil Jadhav,Data Science,156000.0,58.0,Pune,Contract,Manager,6
+1102,Anika Iyer,Sales,,34.0,Delhi,Full-time,Junior,35
+1103,Ishita Pillai,HR,45000.0,21.0,Thane,Full-time,Intern,14
+1104,Arjun Malhotra,Marketing,76000.0,50.0,Kolkata,Part-time,Lead,12
+1105,Myra Shah,Engineering,99000.0,55.0,Kolkata,Full-time,Intern,3
+1106,Mira Ghosh,Finance,84000.0,59.0,Ahmedabad,Full-time,Intern,29
+1107,Kiara Saxena,Administration,49000.0,46.0,Thane,Full-time,Intern,2
+1108,Anika Patel,Engineering,152000.0,59.0,Bengaluru,Full-time,Manager,1
+1109,Ibrahim Deshmukh,Product,180000.0,38.0,Delhi,Full-time,Lead,28
+1110,Nikhil Dutta,Marketing,63000.0,58.0,Bengaluru,Full-time,Mid-level,26
+1111,Ananya More,Operations,76000.0,27.0,Nagpur,Part-time,Senior,18
+1112,Aryan Shetty,Product,-5000.0,46.0,Pune,Full-time,Intern,20
+1113,Tara Mukherjee,Marketing,81000.0,28.0,Mumbai,Part-time,Lead,29
+1114,Dev Das,Engineering,83000.0,33.0,Thane,Part-time,Senior,3
+1115,Krishna Chavan,Sales,69000.0,56.0,Navi Mumbai,Part-time,Senior,7
+1116,Ira Khan,IT,145000.0,59.0,Ahmedabad,Contract,Intern,35
+1117,Ayaan Fernandes,Engineering,93000.0,35.0,Hyderabad,Part-time,Junior,31
+1118,Pooja Gupta,Administration,48000.0,53.0,Nagpur,Full-time,Senior,15
+1119,Rahul Ansari,Data Science,221000.0,30.0,Chennai,Full-time,Mid-level,26
+1120,Aarav Chavan,Operations,99000.0,,Ahmedabad,Contract,Lead,31
+1121,Tanvi Bose,Finance,102000.0,55.0,Jaipur,Contract,Lead,24
+1122,Yash Singh,Data Science,162000.0,33.0,Indore,Full-time,Senior,2
+1123,Rahul Shah,Operations,95000.0,45.0,Thane,Full-time,Junior,32
+1124,Sneha Nair,Legal,102000.0,27.0,Navi Mumbai,Full-time,Manager,9
+1125,Tanvi Verma,Engineering,109000.0,25.0,Jaipur,Contract,Manager,25
+1126,Rahul Pawar,Product,85000.0,42.0,Thane,Contract,Intern,4
+1127,Myra Iyer,Sales,115000.0,39.0,Nagpur,Full-time,Manager,6
+1128,Kabir Kulkarni,Data Science,122000.0,40.0,Ahmedabad,Full-time,Mid-level,27
+1129,Ishita Ghosh,Finance,,54.0,Delhi,Full-time,Junior,5
+1130,Zain Singh,Legal,171000.0,45.0,Thane,Contract,Junior,14
+1131,Anika Sharma,Data Science,145000.0,50.0,Navi Mumbai,Full-time,Manager,34
+1132,Kavya Sengupta,Finance,54000.0,49.0,Ahmedabad,Part-time,Senior,16
+1133,Rahul D'Souza,Data Science,157000.0,33.0,Hyderabad,Full-time,Senior,22
+1134,Vivaan Mukherjee,Legal,97000.0,39.0,Kolkata,Full-time,Lead,3
+1135,Sara Bose,Legal,155000.0,52.0,Gurugram,Part-time,Junior,16
+1136,Aarohi Nair,Product,171000.0,29.0,Pune,Full-time,Senior,2
+1137,Sai Chavan,Legal,106000.0,29.0,Jaipur,Part-time,Senior,11
+1138,Neha Agarwal,Sales,51000.0,55.0,Kolkata,Full-time,Mid-level,30
+1139,Varun Joshi,Marketing,83000.0,28.0,Chennai,Full-time,Manager,25
+1140,Priya Sharma,Customer Support,51000.0,26.0,Kolkata,Contract,Intern,29
+1141,Rahul Das,Operations,68000.0,58.0,Hyderabad,Part-time,Junior,30
+1142,Kabir Joseph,IT,144000.0,56.0,Gurugram,Part-time,Intern,29
+1143,Ayaan Mehta,Administration,49000.0,47.0,Pune,Full-time,Mid-level,31
+1144,Zoya Mehta,HR,41000.0,29.5,Indore,Full-time,Mid-level,34
+1145,Pranav Nair,Engineering,109000.0,47.0,Thane,Contract,Senior,17
+1146,Saanvi Pillai,IT,153000.0,44.0,Navi Mumbai,Full-time,Mid-level,6
+1147,Pranav Bose,Product,122000.0,55.0,Pune,Full-time,Mid-level,12
+1148,Sai Kapoor,HR,95000.0,50.0,Mumbai,Full-time,Mid-level,15
+1149,Saanvi Joshi,Finance,145000.0,57.0,Noida,Contract,Junior,14
+1150,Aarav Gupta,Operations,53000.0,59.0,Chennai,Full-time,Lead,16
+1151,Krishna Sharma,Finance,59000.0,22.0,Kochi,Full-time,Lead,20
+1152,Vihaan Mehta,IT,87000.0,37.0,Nagpur,Contract,Intern,4
+1153,Manav Sengupta,Data Science,194000.0,44.0,Hyderabad,Full-time,Lead,14
+1154,Meera Fernandes,Legal,65000.0,54.0,Mumbai,Full-time,Senior,25
+1155,Pooja Pillai,Engineering,97000.0,52.0,Bengaluru,Full-time,Mid-level,9
+1156,Zain Sengupta,HR,43000.0,38.0,Jaipur,Full-time,Lead,33
+1157,Sara Menon,Marketing,,53.0,Hyderabad,Part-time,Intern,35
+1158,Nikhil Pillai,Administration,85000.0,34.0,Gurugram,Full-time,Mid-level,29
+1159,Kabir Menon,Engineering,176000.0,27.0,Jaipur,Part-time,Mid-level,23
+1160,Arjun Iyer,Finance,132000.0,51.0,Bengaluru,Full-time,Senior,6
+1161,Krishna Shetty,Administration,77000.0,44.0,Pune,Contract,Lead,35
+1162,Kavya Menon,Operations,50000.0,47.0,Pune,Full-time,Lead,19
+1163,Manav Kapoor,Operations,48000.0,57.0,Chennai,Part-time,Senior,14
+1164,Neha Reddy,HR,57000.0,56.0,Kolkata,Contract,Junior,27
+1165,Zain Shetty,Customer Support,77000.0,,Mumbai,Contract,Manager,17
+1166,Yash Jadhav,IT,88000.0,38.0,Jaipur,Full-time,Intern,11
+1167,Arjun Shah,Finance,117000.0,46.0,Mumbai,Full-time,Manager,33
+1168,Varun More,Sales,83000.0,47.0,Delhi,Full-time,Mid-level,20
+1169,Vihaan Shah,Legal,136000.0,26.0,Delhi,Contract,Intern,5
+1170,Aditi Thomas,Marketing,96000.0,48.0,Navi Mumbai,Full-time,Mid-level,13
+1171,Nikhil Reddy,Customer Support,35000.0,43.0,Ahmedabad,Part-time,Manager,31
+1172,Aditya Malhotra,Customer Support,70000.0,40.0,Indore,Contract,Intern,0
+1173,Tara Mehta,Sales,73000.0,34.0,Kolkata,Full-time,Mid-level,7
+1174,Aadhya Mehta,IT,128000.0,48.0,Indore,Contract,Manager,14
+1175,Arjun Mukherjee,Customer Support,63000.0,43.0,Pune,Full-time,Intern,29
+1176,Ibrahim Menon,HR,90000.0,41.0,Indore,Part-time,Manager,26
+1177,Vivaan Pawar,Marketing,54000.0,46.0,Delhi,Contract,Senior,23
+1178,Ira Menon,HR,-5000.0,27.0,Indore,Contract,Intern,25
+1179,Rohan Khan,Marketing,83000.0,35.0,Bengaluru,Contract,Manager,7
+1180,Tara Bose,Customer Support,60000.0,33.0,Kochi,Part-time,Manager,9
+1181,Anika Ansari,Sales,48000.0,30.0,Delhi,Contract,Junior,4
+1182,Varun Ghosh,Finance,143000.0,52.0,Navi Mumbai,Part-time,Lead,20
+1183,Tanvi Pillai,Product,115000.0,30.0,Ahmedabad,Full-time,Lead,3
+1184,Sneha Deshmukh,Operations,99000.0,25.0,Pune,Full-time,Mid-level,4
+1185,Zain Thomas,Product,185000.0,26.0,Indore,Full-time,Lead,35
+1186,Ibrahim Ansari,Administration,32000.0,49.0,Jaipur,Contract,Senior,32
+1187,Reyansh More,Finance,52000.0,49.0,Bengaluru,Contract,Manager,11
+1188,Sneha Agarwal,IT,96000.0,49.0,Delhi,Full-time,Mid-level,18
+1189,Om Thomas,Engineering,,42.0,Pune,Part-time,Manager,21
+1190,Farhan Banerjee,HR,56000.0,27.0,Ahmedabad,Full-time,Manager,9
+1191,Shreya Shah,Operations,45000.0,58.0,Kochi,Full-time,Manager,25
+1192,Meera Shetty,Finance,121000.0,26.0,Indore,Part-time,Mid-level,8
+1193,Sai Menon,Product,164000.0,54.0,Kochi,Full-time,Mid-level,19
+1194,Tara Dutta,Finance,72000.0,42.0,Noida,Full-time,Junior,9
+1195,Manav Bhat,HR,53000.0,27.0,Pune,Part-time,Mid-level,8
+1196,Ananya Shaikh,Legal,108000.0,30.0,Delhi,Part-time,Senior,2
+1197,Sneha Joseph,Engineering,163000.0,36.0,Ahmedabad,Part-time,Senior,14
+1198,Tanvi Ansari,Customer Support,43000.0,,Kochi,Part-time,Lead,28
+1199,Ishita Khan,Data Science,152000.0,45.0,Noida,Contract,Junior,16
+1200,Neha Shetty,IT,147000.0,51.0,Hyderabad,Part-time,Lead,7
